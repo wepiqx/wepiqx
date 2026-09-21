@@ -25,7 +25,3 @@ Full model list: [huggingface.co/wepiqx](https://huggingface.co/wepiqx)
 Allocator signals never certify; capability scores never steer. Every claim ships three columns (PPL canary, KLD rank, task verdict) or stays unverified. Full ledger in [`wepiqx/MERNIK`](https://github.com/wepiqx/MERNIK) (`README.md`, `FUSION.md`, `README-ZOO.md`, `SAGA.md`).
 
 License for my code: Apache-2.0.
-
-## Support (iframe test)
-
-<iframe src="https://github.com/sponsors/wepiqx/button" title="Sponsor wepiqx" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
